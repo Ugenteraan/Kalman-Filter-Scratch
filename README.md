@@ -5,14 +5,14 @@ In this example, the noisy data of displacement and velocity of a moving vehicle
 These two images below illustrates the true values and the measurement values of the displacement and velocity.
 
 ### True Values vs Measurements
-![](images_readme/displacement1.png)
-![](images_readme/velocity1.png)
+![](/images_readme/displacement1.png)
+![](/images_readme/velocity1.png)
 
 These two images below illustrates the true values and the estimation values calculated by Kalman Filter.
 
 ### True Values vs Estimation
-![](images_readme/displacement2.png)
-![](images_readme/velocity2.png)
+![](/images_readme/displacement2.png)
+![](/images_readme/velocity2.png)
 
 It can be seen that Kalman Filter is able to estimate the data as close as possible to the true values despite not knowing the true values. 
 
